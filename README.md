@@ -28,6 +28,12 @@ This project is licensed under the [Apache 2.0 License](LICENSE).
 
 Here are some examples of images with predicted bounding box coordinates:
 
+1.
 ![Example 1](example1.PNG)
+
+2.
+![Example 2](example2.PNG)
+
+3.
 ![Example 2](example2.PNG)
 
