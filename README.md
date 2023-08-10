@@ -35,5 +35,5 @@ Here are some examples of images with predicted bounding box coordinates:
 ![Example 2](example2.PNG)
 
 3.
-![Example 2](example2.PNG)
+![Example 2](example3.PNG)
 
