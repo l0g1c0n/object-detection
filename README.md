@@ -22,12 +22,12 @@ You can configure parameters in the `object_detection.py` script, such as:
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Apache 2.0 License](LICENSE).
 
 ## Examples
 
 Here are some examples of images with predicted bounding box coordinates:
 
-![Example 1](example1.png)
-![Example 2](example2.png)
+![Example 1](example1.PNG)
+![Example 2](example2.PNG)
 
